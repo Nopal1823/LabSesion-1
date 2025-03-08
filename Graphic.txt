@@ -1,1 +1,2 @@
 drawShadow : 0
+bloom : 1
